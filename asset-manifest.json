@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pi-senac-front.github.io/static/css/main.4cd5b3ba.css",
+    "main.js": "/pi-senac-front.github.io/static/js/main.26d4a783.js",
+    "static/media/senac-logo.png": "/pi-senac-front.github.io/static/media/senac-logo.f3105f36dd63785ec2a2.png",
+    "static/media/logo-ext-white.png": "/pi-senac-front.github.io/static/media/logo-ext-white.9a38a461314b1edac1ff.png",
+    "index.html": "/pi-senac-front.github.io/index.html",
+    "main.4cd5b3ba.css.map": "/pi-senac-front.github.io/static/css/main.4cd5b3ba.css.map",
+    "main.26d4a783.js.map": "/pi-senac-front.github.io/static/js/main.26d4a783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd5b3ba.css",
+    "static/js/main.26d4a783.js"
+  ]
+}
